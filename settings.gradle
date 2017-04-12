@@ -1,0 +1,5 @@
+include ':demo', ':lib-cobb';
+include ':lib-gvr';
+include ':lib-gvr-exo';
+//include ':libsocket';
+rootProject.name = 'TwirlingPlayerSDK'

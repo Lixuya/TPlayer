@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="live">直播</string>
+    <string name="online">在线</string>
+    <string name="offline">本地</string>
+</resources>
